@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcG7dsoc9fysa2y4tiBvF7n4F/TeXxXjOa08/PoYT2XIzifFZrREbkctsFbgBRYdIg7AwX9VMRgITiFlw6Vf2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debor\\Desktop\\estudos\\exercicios programação\\csharp\\exercicio uri 1042 - sort simples\\uri1042\\uri1042\\uri1042.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
